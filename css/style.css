@@ -823,6 +823,11 @@ footer#footer {
 .about-info-grids {
     text-align: center;
 }
+.image{
+	width:100%
+	height:400px;
+}
+	
 
 
 .bord {
