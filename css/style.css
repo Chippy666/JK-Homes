@@ -839,6 +839,8 @@ footer#footer {
 .about-info.about-info2 {
    border-left: 1px solid #e8e8e8;
    border-right: 1px solid #e8e8e8;
+	width :50%
+	height :400px;
 }
 .about-info-grids p {
     font-size: 15px;
