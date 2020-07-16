@@ -823,6 +823,15 @@ footer#footer {
 .about-info-grids {
     text-align: center;
 }
+.home-img {
+    width: 100%;
+}
+.image-fig{
+  
+    float: left;
+    position: relative;
+    margin: 0;
+}            
 
 .bord {
     background: #e8e8e8;
